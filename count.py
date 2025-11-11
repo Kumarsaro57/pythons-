@@ -1,3 +1,4 @@
-list=['tomato','potato','onion','carrot','onion','capcicum']
-
-print("count of :",list.count('onion'))
+s="saravana"
+m="a"
+c=s.count(m)
+print(c)
