@@ -1,0 +1,6 @@
+T=(1,3,5,7,9)
+print("tuple before removing item:",T)
+L=list(T)
+L.remove(3)
+T=tuple(L)
+print(" tuple after removing item:",T)
